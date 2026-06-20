@@ -1,6 +1,6 @@
-# 🚀 Portfólio - Lucas Silva
+# 🚀 Lucas Silva — Front-end Developer | UI/UX
 
-Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e evolução como **Desenvolvedor Front-end & UI/UX Designer**.
+Portfólio pessoal focado em desenvolvimento **Front-end** e experiência de usuário **(UI/UX)**, com projetos voltados para interfaces modernas, responsivas e interativas.
 
 <br>
 
